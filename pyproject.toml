@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shopstream-copilot"
+version = "1.0.0"
+description = "In-Stream Video Commerce & Universal Commerce Protocol Agent for YouTube Shopping"
+authors = [{ name = "YouTube Shopping Consumer Growth Team (Zurich)", email = "zurich-growth@youtube.com" }]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.30.0",
+    "pydantic>=2.5.0",
+    "openai>=1.10.0",
+    "pandas>=2.0.0",
+    "pytest>=7.4.0",
+    "numpy>=1.24.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "httpx>=0.25.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"

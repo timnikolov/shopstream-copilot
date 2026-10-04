@@ -1,0 +1,1 @@
+# ShopStream Copilot package initialization

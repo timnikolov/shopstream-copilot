@@ -1,0 +1,309 @@
+[
+  {
+    "video_id": "vid_sony_alpha",
+    "title": "Sony Alpha 7 IV & FE 24-70mm GM II Ultimate Review",
+    "channel_name": "TechVision Pro (Zurich Studio)",
+    "creator_id": "creator_techvision_88",
+    "duration": 300.0,
+    "category": "Tech",
+    "creator_affiliate_settings": {
+      "default_rate": 0.08,
+      "custom_bonus": 0.02
+    },
+    "transcript_cues": [
+      {
+        "timestamp_start": 0.0,
+        "timestamp_end": 15.0,
+        "speaker": "Marc",
+        "text": "Welcome back! Today we are testing the Sony Alpha 7 IV paired with the new 24-70mm GM II lens here in Zurich.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-SONY-A7IV",
+          "SKU-SONY-2470GM2"
+        ]
+      },
+      {
+        "timestamp_start": 15.1,
+        "timestamp_end": 45.0,
+        "speaker": "Marc",
+        "text": "The 33-megapixel sensor gives incredible dynamic range, and the 24-70mm f/2.8 lens is surprisingly lightweight for handheld work.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-SONY-A7IV",
+          "SKU-SONY-2470GM2"
+        ]
+      },
+      {
+        "timestamp_start": 45.1,
+        "timestamp_end": 90.0,
+        "speaker": "Marc",
+        "text": "For audio, I am recording with the Rode VideoMic Pro+ mounted directly on top of the Peak Design Travel Tripod.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-RODE-VMPPLUS",
+          "SKU-PEAK-TRIPOD-CF"
+        ]
+      },
+      {
+        "timestamp_start": 90.1,
+        "timestamp_end": 180.0,
+        "speaker": "Marc",
+        "text": "If you want to step up to telephoto, the 70-200mm f/2.8 GM II provides unbelievable compression and isolation.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-SONY-70200GM2"
+        ]
+      },
+      {
+        "timestamp_start": 180.1,
+        "timestamp_end": 300.0,
+        "speaker": "Marc",
+        "text": "Overall this is my main video rig for 2026. Check the in-stream shop drawer below to get 1-click checkout with Google Pay!",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-SONY-A7IV",
+          "SKU-SONY-2470GM2"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "vid_autumn_fashion",
+    "title": "NYC Autumn Capsule Wardrobe & Fall Style Haul",
+    "channel_name": "Elena Haute Zurich",
+    "creator_id": "creator_elena_haute_14",
+    "duration": 300.0,
+    "category": "Apparel",
+    "creator_affiliate_settings": {
+      "default_rate": 0.12,
+      "custom_bonus": 0.03
+    },
+    "transcript_cues": [
+      {
+        "timestamp_start": 0.0,
+        "timestamp_end": 30.0,
+        "speaker": "Elena",
+        "text": "Hi everyone! Fall is finally here, so today I'm styling my essential Autumn capsule wardrobe pieces.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-ACNE-TRENCH-BRN"
+        ]
+      },
+      {
+        "timestamp_start": 30.1,
+        "timestamp_end": 75.0,
+        "speaker": "Elena",
+        "text": "First up is this Acne Studios double-breasted camel trench coat paired with the Reformation black recycled cashmere sweater.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-ACNE-TRENCH-BRN",
+          "SKU-REF-CASHMERE-BLK"
+        ]
+      },
+      {
+        "timestamp_start": 75.1,
+        "timestamp_end": 140.0,
+        "speaker": "Elena",
+        "text": "For footwear, these Dr. Martens 1460 Pascal smooth leather boots give the outfit a nice structured edge.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-DRM-1460BOOTS"
+        ]
+      },
+      {
+        "timestamp_start": 140.1,
+        "timestamp_end": 210.0,
+        "speaker": "Elena",
+        "text": "I've wrapped this Toteme signature wool scarf around my shoulders, and carried the A.P.C. Grace leather bag.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-TOT-SCARF-BEIGE",
+          "SKU-APC-BAG-GRACE"
+        ]
+      },
+      {
+        "timestamp_start": 210.1,
+        "timestamp_end": 300.0,
+        "speaker": "Elena",
+        "text": "Let me know your favorite piece in the comments! You can tap any item right now on screen for instant instant sizing and checkout.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-ACNE-TRENCH-BRN",
+          "SKU-REF-CASHMERE-BLK",
+          "SKU-DRM-1460BOOTS"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "vid_earthquake_news",
+    "title": "BREAKING: 6.8 Earthquake Hits Pacific Rim - Emergency Response Live",
+    "channel_name": "Global News Network Live",
+    "creator_id": "creator_gnn_news_01",
+    "duration": 300.0,
+    "category": "News",
+    "creator_affiliate_settings": {
+      "default_rate": 0.0,
+      "custom_bonus": 0.0
+    },
+    "transcript_cues": [
+      {
+        "timestamp_start": 0.0,
+        "timestamp_end": 29.9,
+        "speaker": "Anchor",
+        "text": "Good morning. We are following breaking news from the Pacific region.",
+        "sensitive_tag": null,
+        "featured_skus": []
+      },
+      {
+        "timestamp_start": 30.0,
+        "timestamp_end": 120.0,
+        "speaker": "Anchor",
+        "text": "A severe magnitude 6.8 earthquake hit off the coastal region, triggering emergency evacuation orders. First responders and disaster relief medical teams are deployed.",
+        "sensitive_tag": "disaster",
+        "featured_skus": []
+      },
+      {
+        "timestamp_start": 120.1,
+        "timestamp_end": 220.0,
+        "speaker": "Correspondent",
+        "text": "Authorities report multiple structural damages and emergency hospital admissions. Relief operations are currently underway in affected zones.",
+        "sensitive_tag": "tragedy",
+        "featured_skus": []
+      },
+      {
+        "timestamp_start": 220.1,
+        "timestamp_end": 300.0,
+        "speaker": "Anchor",
+        "text": "We will remain live with official updates from the Red Cross and government crisis agencies.",
+        "sensitive_tag": "medical_emergency",
+        "featured_skus": []
+      }
+    ]
+  },
+  {
+    "video_id": "vid_pro_gaming",
+    "title": "Ultimate Desk Setup 2026: OLED Monitors & Custom Keyboards",
+    "channel_name": "BattleStation Zurich",
+    "creator_id": "creator_battlestation_99",
+    "duration": 300.0,
+    "category": "Gaming",
+    "creator_affiliate_settings": {
+      "default_rate": 0.1,
+      "custom_bonus": 0.02
+    },
+    "transcript_cues": [
+      {
+        "timestamp_start": 0.0,
+        "timestamp_end": 45.0,
+        "speaker": "Lukas",
+        "text": "This is the ultimate gaming setup upgrade for 2026. Centered around the LG 34-inch OLED curved monitor.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-LG-34OLED"
+        ]
+      },
+      {
+        "timestamp_start": 45.1,
+        "timestamp_end": 110.0,
+        "speaker": "Lukas",
+        "text": "I'm typing on the Keychron Q1 Pro wireless custom mechanical keyboard with banana tactile switches and Razer DeathAdder V3 Pro mouse.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-KEY-Q1PRO",
+          "SKU-RAZER-DA-V3"
+        ]
+      },
+      {
+        "timestamp_start": 110.1,
+        "timestamp_end": 190.0,
+        "speaker": "Lukas",
+        "text": "Audio is handled by the SteelSeries Arctis Nova Pro wireless headset, and I switch scenes using the Elgato Stream Deck MK.2.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-STEEL-NOVAPRO",
+          "SKU-ELG-STREAMDECK"
+        ]
+      },
+      {
+        "timestamp_start": 190.1,
+        "timestamp_end": 300.0,
+        "speaker": "Lukas",
+        "text": "To top it off, the Secretlab TITAN Evo chair keeps my posture supported during 8-hour streaming sessions!",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-SECRETLAB-EVO"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "vid_glass_skin",
+    "title": "10-Step K-Beauty Glass Skin Evening Routine",
+    "channel_name": "Glow Zurich K-Beauty",
+    "creator_id": "creator_glow_zurich_55",
+    "duration": 300.0,
+    "category": "Beauty",
+    "creator_affiliate_settings": {
+      "default_rate": 0.15,
+      "custom_bonus": 0.05
+    },
+    "transcript_cues": [
+      {
+        "timestamp_start": 0.0,
+        "timestamp_end": 40.0,
+        "speaker": "Chloe",
+        "text": "Welcome back beauties! Tonight I'm taking you step-by-step through my nighttime glass skin K-beauty routine.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-ANUA-TONER77"
+        ]
+      },
+      {
+        "timestamp_start": 40.1,
+        "timestamp_end": 100.0,
+        "speaker": "Chloe",
+        "text": "First, after double cleansing, I layer the Anua Heartleaf 77% Soothing Toner followed by the COSRX Snail 96 Mucin Power Essence.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-ANUA-TONER77",
+          "SKU-COSRX-SNAIL96"
+        ]
+      },
+      {
+        "timestamp_start": 100.1,
+        "timestamp_end": 170.0,
+        "speaker": "Chloe",
+        "text": "Next is Paula's Choice 2% BHA liquid exfoliant to clear out pores, followed by Drunk Elephant Lala Retro Whipped Cream.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-PAULAS-2BHA",
+          "SKU-DRUNK-LALA"
+        ]
+      },
+      {
+        "timestamp_start": 170.1,
+        "timestamp_end": 230.0,
+        "speaker": "Chloe",
+        "text": "Before bed, I coat my lips in Laneige Berry Lip Sleeping Mask and apply Sol de Janeiro Bum Bum Cream.",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-LANEIGE-LIPMASK",
+          "SKU-SOL-BUMBUM240"
+        ]
+      },
+      {
+        "timestamp_start": 230.1,
+        "timestamp_end": 300.0,
+        "speaker": "Chloe",
+        "text": "Wake up with ultra glowing skin! Tap any product on screen to buy directly with instant Google Pay checkout!",
+        "sensitive_tag": null,
+        "featured_skus": [
+          "SKU-COSRX-SNAIL96",
+          "SKU-BOJ-RELIEFSUN",
+          "SKU-LANEIGE-LIPMASK"
+        ]
+      }
+    ]
+  }
+]
