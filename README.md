@@ -47,7 +47,7 @@ Conversely, uncoordinated in-stream popups disrupt storytelling and irritate vie
 flowchart TD
     A["Input Context (Video Transcript Cue + Viewer Query)"] --> B["Dual-Head Intent & Entity Parser (LM Studio / Deterministic Engine)"]
     B --> C["Deterministic Policy Arbiter (MonetizationGuardrail)"]
-    C -->|Sensitive Category Detected (Tragedy, Crisis, Emergency)| D["HARD SUPPRESSION: Informational-Only Response (Drawer Suppressed)"]
+    C -->|Sensitive Category: Crisis, Disaster, Tragedy| D["HARD SUPPRESSION: Informational-Only Response (Drawer Suppressed)"]
     C -->|Cleared for Commercial Engagement| E["UCP Catalog Retrieval & Sizing/Specs Engine"]
     E --> F["Compatibility Verification & Creator Commission Split Calculation"]
     F --> G["Universal Commerce Protocol (UCP v1.2) Checkout Session"]
