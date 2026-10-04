@@ -1,7 +1,7 @@
-# Product Growth Playbook: YouTube Shopping Zurich
+# Product Growth Playbook: In-Stream Video Commerce
 ## 0-to-1 GTM Strategy & Creator Monetization Flywheel
-**Product Team:** YouTube Shopping Consumer Growth (Zurich)  
-**Document ID:** GRO-2026-YTS-004  
+**Product Organization:** In-Stream Video Commerce & Platform Monetization Systems  
+**Document ID:** GRO-2026-SSC-004  
 **Primary Focus:** Creator Adoption, Merchant Scalability, and Viewer Conversion Velocity  
 
 ---

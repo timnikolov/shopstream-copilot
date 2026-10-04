@@ -1,7 +1,7 @@
 # Experimentation & A/B Testing Specification
 ## ShopStream-Copilot vs. Control (Static Description Links)
-**Team:** YouTube Shopping Consumer Growth Team (Zurich)  
-**Document ID:** EXP-2026-YTS-009  
+**Systems Domain:** In-Stream Video Commerce & Platform Monetization Systems  
+**Document ID:** EXP-2026-SSC-009  
 
 ---
 

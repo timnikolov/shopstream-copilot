@@ -1,8 +1,8 @@
 # Universal Commerce Protocol (UCP v1.2) Specification
 ## In-Stream Transaction Protocol for Video Commerce
-**Standard Organization:** YouTube Shopping & Google Commerce Standards (Zurich)  
+**Standard Organization:** Universal Video Commerce Protocol Consortium  
 **Protocol Version:** 1.2.0-STABLE  
-**Security Level:** Tokenized PCI-DSS Level 1 / Google Pay End-to-End Encryption  
+**Security Level:** Tokenized PCI-DSS Level 1 / 1-Click Pay End-to-End Encryption  
 
 ---
 

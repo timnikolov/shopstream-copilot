@@ -109,7 +109,7 @@ class MockLMEngine:
     ) -> str:
         """Synthesize natural language response based on products, safety, and checkout results."""
         if not safety.is_safe_to_monetize:
-            return f"⚠️ [YouTube Safety Guardrail Active] Commercial features are paused during this segment due to sensitive content policy compliance ({safety.reason})."
+            return f"⚠️ [Brand Safety Guardrail Active] Commercial features are paused during this segment due to sensitive content policy compliance ({safety.reason})."
 
         if checkout:
             return f"✅ **Order Confirmed!** Your order for **{checkout.sku_id}** was processed via 1-Click Google Pay (Transaction ID: `{checkout.transaction_id}`). Total: ${checkout.total_amount:.2f}. Creator affiliate earnings of ${checkout.creator_commission_amount:.2f} allocated."

@@ -1,7 +1,7 @@
 # System Architecture Specification
 ## ShopStream-Copilot Technical Blueprint & UCP Data Flow
-**Team:** YouTube Shopping Consumer Growth Team (Zurich)  
-**Document ID:** ARCH-2026-YTS-003  
+**Systems Domain:** In-Stream Video Commerce & Platform Monetization Systems  
+**Document ID:** ARCH-2026-SSC-003  
 
 ---
 

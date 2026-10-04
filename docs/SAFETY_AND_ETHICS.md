@@ -1,8 +1,8 @@
 # Brand Safety, Policy & Ethical AI Framework
 ## MonetizationGuardrail & Regulatory Compliance Specification
-**Organization:** YouTube Trust & Safety and Google AI Governance (Zurich)  
-**Document ID:** SAF-2026-YTS-002  
-**Target Policies:** Google Ads Sensitive Content Guidelines, YouTube Community Guidelines, Google AI Principles  
+**Organization:** Trust & Safety and Responsible AI Governance  
+**Document ID:** SAF-2026-SSC-002  
+**Target Policies:** Sensitive Content Brand Safety Guidelines & Community Standards  
 
 ---
 

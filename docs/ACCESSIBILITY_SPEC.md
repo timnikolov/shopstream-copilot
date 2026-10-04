@@ -1,7 +1,7 @@
 # Accessibility & Inclusive Design Specification
 ## ShopStream-Copilot WCAG 2.1 AA Compliance Standard
-**Team:** YouTube Accessibility & Consumer Growth Team (Zurich)  
-**Document ID:** ACC-2026-YTS-001  
+**Systems Domain:** Accessible Interfaces & Consumer Growth Systems  
+**Document ID:** ACC-2026-SSC-001  
 
 ---
 

@@ -105,7 +105,7 @@ with st.sidebar:
         </svg>
         <span style="font-size:1.3rem; font-weight:800; color:#FFFFFF; letter-spacing:-0.5px;">Studio</span>
     </div>
-    <p style="color:#AAAAAA; font-size:0.85rem; margin-top:-8px; margin-bottom:16px;">Consumer Growth Experimentation (Zurich)</p>
+    <p style="color:#AAAAAA; font-size:0.85rem; margin-top:-8px; margin-bottom:16px;">In-Stream Commerce Experimentation Console</p>
     """, unsafe_allow_html=True)
 
     contrast_theme = st.radio(
@@ -352,7 +352,7 @@ with col_controls:
     <div class="yt-card">
         <h4 style="margin:0 0 6px 0; font-size:0.95rem; font-weight:700;">Cohort Specs</h4>
         <div style="font-size:0.82rem; color:#E0E0E0; line-height:1.5;">
-            • Region: Zurich, CH<br/>
+            • Region: Global / EMEA<br/>
             • Surface: Watch Player<br/>
             • Merchant Catalog: 52 SKUs
         </div>

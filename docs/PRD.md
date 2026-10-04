@@ -1,9 +1,9 @@
 # Product Requirements Document (PRD)
 ## ShopStream-Copilot: In-Stream Video Commerce & Universal Commerce Protocol Agent
-**Team:** YouTube Shopping Consumer Growth Team (Zurich)  
+**Systems Domain:** In-Stream Video Commerce & Platform Monetization Systems  
 **Status:** Approved for Production Engineering  
 **Version:** 1.0.0  
-**Target Surface:** YouTube Desktop, Mobile & Living Room Surfaces  
+**Target Surface:** In-Stream Video Watch Surface (Desktop, Mobile, Living Room)  
 
 ---
 
